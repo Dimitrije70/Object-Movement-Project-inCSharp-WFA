@@ -1,0 +1,9 @@
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\bin\Debug\Move Object.exe.config
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\bin\Debug\Move Object.exe
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\bin\Debug\Move Object.pdb
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move Object.csprojAssemblyReference.cache
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move_Object.Form1.resources
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move_Object.Properties.Resources.resources
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move Object.csproj.GenerateResource.cache
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move Object.exe
+C:\Димитрије\Програмирање\Моји Пројекти\Move Object\Move Object\obj\Debug\Move Object.pdb
